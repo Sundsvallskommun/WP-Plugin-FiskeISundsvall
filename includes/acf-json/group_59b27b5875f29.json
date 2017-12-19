@@ -8,25 +8,6 @@
             "name": "cr-name",
             "type": "text",
             "instructions": "",
-            "required": 1,
-            "conditional_logic": 0,
-            "wrapper": {
-                "width": "",
-                "class": "",
-                "id": ""
-            },
-            "default_value": "",
-            "placeholder": "",
-            "prepend": "",
-            "append": "",
-            "maxlength": ""
-        },
-        {
-            "key": "field_59b284d907a10",
-            "label": "Gatuadress",
-            "name": "cr-address",
-            "type": "text",
-            "instructions": "",
             "required": 0,
             "conditional_logic": 0,
             "wrapper": {
@@ -39,127 +20,6 @@
             "prepend": "",
             "append": "",
             "maxlength": ""
-        },
-        {
-            "key": "field_59b2850a9bd4c",
-            "label": "Postnummer",
-            "name": "cr-postal",
-            "type": "text",
-            "instructions": "",
-            "required": 0,
-            "conditional_logic": 0,
-            "wrapper": {
-                "width": "",
-                "class": "",
-                "id": ""
-            },
-            "default_value": "",
-            "placeholder": "",
-            "prepend": "",
-            "append": "",
-            "maxlength": ""
-        },
-        {
-            "key": "field_59b285269bd4d",
-            "label": "Ort",
-            "name": "cr-city",
-            "type": "text",
-            "instructions": "",
-            "required": 0,
-            "conditional_logic": 0,
-            "wrapper": {
-                "width": "",
-                "class": "",
-                "id": ""
-            },
-            "default_value": "",
-            "placeholder": "",
-            "prepend": "",
-            "append": "",
-            "maxlength": ""
-        },
-        {
-            "key": "field_59b285339bd4e",
-            "label": "Telefonnummer",
-            "name": "cr-phone",
-            "type": "text",
-            "instructions": "",
-            "required": 0,
-            "conditional_logic": 0,
-            "wrapper": {
-                "width": "",
-                "class": "",
-                "id": ""
-            },
-            "default_value": "",
-            "placeholder": "",
-            "prepend": "",
-            "append": "",
-            "maxlength": ""
-        },
-        {
-            "key": "field_59b2853d9bd4f",
-            "label": "E-postadress",
-            "name": "cr-emailaddress",
-            "type": "email",
-            "instructions": "",
-            "required": 0,
-            "conditional_logic": 0,
-            "wrapper": {
-                "width": "",
-                "class": "",
-                "id": ""
-            },
-            "default_value": "",
-            "placeholder": "",
-            "prepend": "",
-            "append": ""
-        },
-        {
-            "key": "field_59b9337cbd51a",
-            "label": "Delta i utlottning av priser",
-            "name": "cr-attendlottery",
-            "type": "checkbox",
-            "instructions": "",
-            "required": 0,
-            "conditional_logic": 0,
-            "wrapper": {
-                "width": "",
-                "class": "",
-                "id": ""
-            },
-            "choices": {
-                "Ja, jag vill deltaga i utlottning av priser.": "Ja, jag vill deltaga i utlottning av priser."
-            },
-            "allow_custom": 0,
-            "save_custom": 0,
-            "default_value": [],
-            "layout": "vertical",
-            "toggle": 0,
-            "return_format": "value"
-        },
-        {
-            "key": "field_59b933defd47b",
-            "label": "Ljunganpins",
-            "name": "cr-pins",
-            "type": "checkbox",
-            "instructions": "",
-            "required": 0,
-            "conditional_logic": 0,
-            "wrapper": {
-                "width": "",
-                "class": "",
-                "id": ""
-            },
-            "choices": {
-                "Ja, jag vill ha en Ljunganpins.": "Ja, jag vill ha en Ljunganpins."
-            },
-            "allow_custom": 0,
-            "save_custom": 0,
-            "default_value": [],
-            "layout": "vertical",
-            "toggle": 0,
-            "return_format": "value"
         },
         {
             "key": "field_59b9341470b2b",
@@ -378,5 +238,5 @@
     "hide_on_screen": "",
     "active": 1,
     "description": "",
-    "modified": 1508423330
+    "modified": 1513598576
 }
