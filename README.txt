@@ -20,7 +20,7 @@ This section describes how to install the plugin and get it working.
 
 1. Upload plugin to the `plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Use the [free-choice] shortcode on any page where you want the plugin to appear
+3. Use the [catchreport-form] short code on any page where you want the form for the catch report to be seen.
 
 == Frequently Asked Questions ==
 
