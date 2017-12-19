@@ -1,0 +1,71 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.post-type-archive-catchreport .datepicker.dropdown-menu {
+    width: 200px;
+}
+
+
+.post-type-archive-catchreport table a{
+    color: #0275d8;
+}
+
+
+.post-type-archive-catchreport .form-check-inline{
+    padding-left: 0;
+}
+
+.post-type-archive-catchreport .form-check-label{
+    margin-right: 1em;
+}
+.post-type-archive-catchreport .card.form-wrapper{
+    background-color: #f9f9f9;
+    margin-bottom: 3em;
+}
+
+.post-type-archive-catchreport .sk-pagination{
+    text-align: center;
+}
+
+.post-type-archive-catchreport .sk-pagination .current{
+
+}
+
+.post-type-archive-catchreport .sk-pagination a{
+    color: #0275d8;
+}
+
+
+.post-type-archive-catchreport .table-sm{
+    font-size: 90%;
+}
+
+.post-type-archive-catchreport .table-xs{
+    font-size: 80%;
+}
+
+.acf-form{
+    margin-bottom: 4em;
+}
+
+.acf-form .card{
+    background-color: #f9f9f9;
+}
+
+.updated{
+    background-color: #eef2f9;;
+    padding: 1em;
+    margin-bottom: 3em;
+    border: 1px solid #d4def0;
+    border-radius: .25rem;
+
+}
+
+.updated p{
+    font-size: 110%;
+    padding: 0;
+    margin: 0;
+    color: #0064ad !important;
+}
